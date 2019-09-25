@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <p>{{ message }}</p>
-    <p>Ahiih</p>
+    <p>Day la file cua Vue</p>
   </div>
 </template>
 
